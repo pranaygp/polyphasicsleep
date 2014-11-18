@@ -18,13 +18,9 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.CheckBox;
 import android.widget.ImageButton;
-import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdSize;
-import com.google.android.gms.ads.AdView;
 import com.liquications.polyphasicsleep.database.Database;
 import com.liquications.polyphasicsleep.preferences.AlarmPreferencesActivity;
 import com.liquications.polyphasicsleep.service.AlarmReceiver;

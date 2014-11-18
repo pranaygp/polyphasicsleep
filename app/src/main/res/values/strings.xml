@@ -15,7 +15,6 @@
     <string name="menu_item_report">Report a Bug</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_settings">Settings</string>
-
     <string name="pref_allow_not">Allow Notifications</string>
     <string name="pref_allow_not_summary">Reminds you to nap</string>
     <string name="pref_sync_frequency">Set Default Schedule</string>
@@ -24,12 +23,10 @@
     <string name="pref_user_name_summary">Set your username</string>
     <string name="pref_goDark">Go Dark Theme</string>
     <string name="pref_goDark_summary">Changes theme to dark</string>
-
     <string name="pref_user_profile">User Profile</string>
     <string name="pref_general_setting">General Settings</string>
     <string name="mathDifSum">Sleep now math difficulty</string>
     <string name="pref_mathdif">Math Alarm Difficulty</string>
-
 
     <!-- Math Alarm Activity -->
 
@@ -41,11 +38,8 @@
     <string name="menu_item_new">New</string>
     <string name="menu_item_save">Save</string>
     <string name="menu_item_deleteA">Cancel</string>
-
     <string name="popupDialog">dd</string>
     <string name="popupDialogHead">dd</string>
-
-
 
     <!-- Alert -->
     <string name="_0">0</string>
@@ -84,12 +78,7 @@
 
     <string name="title_activity_notification_receiver">NotificationReceiver</string>
     <string name="title_activity_web_view">Polyphasic Sleep Beta</string>
-
-
     <string name="updateNewsText">4.9.14: Ads have been removed, this project is now open source on github. If you wish to contribute to this project please star fork and discuss/push your fixes and ideas. Email liquications@gmail.com for queries.</string>
-
-
-
     <string name="title_activity_monophasic">Monophasic Sleep</string>
     <string name="title_activity_segmented">Segmented Sleep</string>
     <string name="title_activity_siesta">Siesta Sleep</string>
@@ -109,5 +98,11 @@
     <string name="ubermanLrg">Uberman is the most commonly attempted, and most failed of polyphasic schedules. This is largely due to a misunderstanding of the difficulties associated with its adaptation period. Uberman is the most well known nap only schedule, and is an extension of the Everyman schedules, to the point of getting rid of the core sleep entirely. While Uberman is extremely difficult, it can have great benefits by increasing the amount of time in a person’s day drastically. An Uberman will have 6 or 8 x20 minute naps a day, with total sleep time ranging from 2-3 hours a day.</string>
     <string name="siestaLrg">The siesta sleep is very common in Spain, Germany, and various other European countries. Spain specifically closes shops in the middle of the day for a few hours so that people can go home for lunch, napping, and other quiet activities. The siesta schedule consists of 5-6 hours of sleep at night and a 20 to 90 minute nap in the early afternoon. This form of sleep matches with our natural Circadian rhythm, and is commonly known by scientists to be healthier than monophasic sleep, with the short nap increasing productivity and alertness during evening hours. A biphasic sleeper typically sleeps between 5 and 7 hours a day.</string>
     <string name="adaptStart">If you are new to polyphasic this is where you can learn about some of the methods of adaptation. These are all schedule non-specific and the logic can be applied to any sleeping schedule, usually.</string>
+    <string name="title_activity_first_run">firstRun</string>
+    <string name="firstRunMessageTitle">First Run Message</string>
+    <string name="firstTunDialogMessage">Lorem ipsum dolor sit amet.</string>
+    <string name="closeButtonText">Close</string>
+    <string name="howSleepNowWorksTitle">How \'Sleep Now\' works</string>
+    <string name="howSleepNowWorksExplanation">Here\'s how Sleep Now works</string>
 
 </resources>

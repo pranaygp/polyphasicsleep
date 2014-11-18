@@ -1,6 +1,5 @@
 package com.liquications.polyphasicsleep;
 
-import android.app.Dialog;
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -14,8 +13,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
 import java.util.Locale;
@@ -56,7 +53,7 @@ public class Main extends FragmentActivity {
     }
 
     public void firstRunDialog(){
-        final Dialog dialog = new Dialog(this);
+        /*final Dialog dialog = new Dialog(this);
 
         dialog.setContentView(R.layout.custom_dialog);
         dialog.setTitle("First Run Dialog");
@@ -68,6 +65,9 @@ public class Main extends FragmentActivity {
             }
         });
         dialog.show();
+
+        */
+
     }
 
     private boolean isFirstTime()
